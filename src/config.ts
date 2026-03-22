@@ -74,6 +74,12 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/saicaca/fuwari",
 		},
+		{
+			name: "QQ",
+			icon: "fa6-brands:qq",
+			url: "https://qq.com",
+		},
+		}
 	],
 };
 
