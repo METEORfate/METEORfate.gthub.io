@@ -79,7 +79,6 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:qq",
 			url: "https://qq.com",
 		},
-		}
 	],
 };
 
